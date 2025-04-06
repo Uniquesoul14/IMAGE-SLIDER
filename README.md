@@ -15,11 +15,7 @@ This is a simple and sleek Image Slider Web Application built with HTML, CSS, an
 
 📺 Watch the Demo: 
 🛠️ Technologies Used
-HTML5
-
-,CSS3
-
-,JavaScript (Vanilla)
+HTML5,CSS3,JavaScript (Vanilla)
 
 📂 How to Use
 Clone the repository:
